@@ -17,16 +17,15 @@
 
 ### ⚙ Analytics
 <div>
-<a href="https://github.com/asuperdog" target="_blank">
+<a href="https://github.com/asuperdog">
 <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=asuperdog">
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asuperdog&layout=compact"></a>
 </div>
 
 ### 📫 Reach Me
 <div>
-<a href="https://superdog.tech" target="_blank"><img src="https://img.shields.io/badge/Website-superdog.tech-blue?style=flat-square&logo=firefox"></a>
-<a href="https://superdog.tech/src/img/qrcode.jpg" target="_blank"><img src="https://img.shields.io/badge/WeChat-iSuperdog-blue?style=flat-square&logo=wechat"></a>
-<a href="https://t.me/iSuperdog" target="_blank"><img src="https://img.shields.io/badge/Telegram-iSuperdog-blue?style=flat-square&logo=telegram"></a>
-<a href="mailto:bombiu@126.com" target="_blank"><img src="https://img.shields.io/badge/Email-bombiu@126.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://superdog.tech"><img src="https://img.shields.io/badge/Website-superdog.tech-blue?style=flat-square&logo=firefox"></a>
+<a href="https://superdog.tech/src/img/qrcode.jpg"><img src="https://img.shields.io/badge/WeChat-iSuperdog-blue?style=flat-square&logo=wechat"></a>
+<a href="https://t.me/iSuperdog"><img src="https://img.shields.io/badge/Telegram-iSuperdog-blue?style=flat-square&logo=telegram"></a>
+<a href="mailto:bombiu@126.com"><img src="https://img.shields.io/badge/Email-bombiu@126.com-blue?style=flat-square&logo=gmail"></a>
 </div>
-
