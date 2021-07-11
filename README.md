@@ -2,12 +2,12 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🔭 I’m currently learning Flutter Application Development.
+- 🔭 I’m currently learning Web Framework Development.
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Studying Computer Science and Computer Programming.
-- 💼 A green hand in front-end web development.
-- 🌱 Enjoy life and full of hope.
-- 🎵 Music is a golden thing to release pressure and lighten up the mood. 
+- 💼 A green hand in back-end and front-end web development.
+- 🌱 Enjoy life to the fullest and stay hopeful.
+- 🎵 Music is a golden thing to lighten up the mood. 
 
 ### 🛠 Tech Stack
 - 💻 Java | Python | PHP | Go
