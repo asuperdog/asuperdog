@@ -25,8 +25,8 @@
 
 ### 📫 Reach Me
 <div>
-  <a href="https://superdog.tech"><img src="https://img.shields.io/badge/Website-superdog.tech-blue?style=flat-square&logo=firefox"></a>
-  <a href="https://superdog.tech/src/img/qrcode.jpg"><img src="https://img.shields.io/badge/WeChat-iSuperdog-blue?style=flat-square&logo=wechat"></a>
+  <a href="https://isuperdog.com"><img src="https://img.shields.io/badge/Website-isuperdog.com-blue?style=flat-square&logo=firefox"></a>
+  <a href="https://isuperdog.com/static/img/qrcode.jpg"><img src="https://img.shields.io/badge/WeChat-iSuperdog-blue?style=flat-square&logo=wechat"></a>
   <a href="https://t.me/iSuperdog"><img src="https://img.shields.io/badge/Telegram-iSuperdog-blue?style=flat-square&logo=telegram"></a>
   <a href="mailto:bombiu@126.com"><img src="https://img.shields.io/badge/Email-bombiu@126.com-blue?style=flat-square&logo=gmail"></a>
 </div>
