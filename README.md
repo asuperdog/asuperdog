@@ -10,10 +10,9 @@
 - 🎵 Music is the best thing to release pressure and lighten up the mood.
 
 ### 🛠 Tech Stack
-- 💻 Java | Python | PHP | Go
-- 🌐 HTML | CSS | JavaScript | Vue
+- 💻 Java | Python | PHP
+- 🌐 HTML | React | Vue
 - 💾 MySQL | Redis | MongoDB
-- 🔧 VSCode | IDEA | Git | Linux
 
 ### ⚙ Analytics
 <div>
@@ -25,8 +24,8 @@
 
 ### 📫 Reach Me
 <div>
-  <a href="https://isuperdog.com"><img src="https://img.shields.io/badge/Website-isuperdog.com-blue?style=flat-square&logo=firefox"></a>
-  <a href="https://isuperdog.com/static/img/qrcode.jpg"><img src="https://img.shields.io/badge/WeChat-iSuperdog-blue?style=flat-square&logo=wechat"></a>
-  <a href="https://t.me/iSuperdog"><img src="https://img.shields.io/badge/Telegram-iSuperdog-blue?style=flat-square&logo=telegram"></a>
-  <a href="mailto:bombiu@126.com"><img src="https://img.shields.io/badge/Email-bombiu@126.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://ursupdog.com"><img src="https://img.shields.io/badge/Website-ursupdog.com-blue?style=flat-square&logo=firefox"></a>
+  <a href="https://ursupdog.com/static/img/qrcode.jpg"><img src="https://img.shields.io/badge/WeChat-ursupdog-blue?style=flat-square&logo=wechat"></a>
+  <a href="https://t.me/ursupdog"><img src="https://img.shields.io/badge/Telegram-ursupdog-blue?style=flat-square&logo=telegram"></a>
+  <a href="mailto:urdoge@126.com"><img src="https://img.shields.io/badge/Email-urdoge@126.com-blue?style=flat-square&logo=gmail"></a>
 </div>
